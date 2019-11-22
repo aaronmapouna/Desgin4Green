@@ -1,0 +1,7 @@
+Création de la BDD				[X]
+Formatage des données passées dans le CSV	[X]
+Intégration des données				[X]
+Gestion des connexions				[X]
+Graphe consommation				[X]
+Deploiement					[]
+Tests						[]
